@@ -1,6 +1,7 @@
 <html>
 <body>
 <h1>About DevOps Technology</h1>
+<<<<<<< HEAD
 <p>Learn the tools Maven, Git, Grafana, Docker, Jenkins, AWS</p>
 </body>
 </html>
